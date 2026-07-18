@@ -15,7 +15,7 @@
   <nav class="wrap">
     <a href="#top" class="brand">
       <div class="brand-mark">
-        <img src="/pzbranding.png" height="50" width="auto" alt="Powerzone Logo" />
+        <img src="/pzbranding.png" height="45" width="auto" alt="Powerzone Logo" />
       </div>
     </a>
 
@@ -58,7 +58,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 18px 24px;
+    padding: 10px 24px;
   }
 
   .brand {

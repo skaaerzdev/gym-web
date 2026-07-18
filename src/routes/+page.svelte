@@ -79,7 +79,7 @@ import {
     revealElements.forEach((el) => revealObserver.observe(el));
 
     const onScroll = () => {
-      if (header) header.style.padding = window.scrollY > 40 ? '10px' : '15px';
+      if (header) header.style.padding = window.scrollY > 40 ? '5px' : '15px';
     };
 
     window.addEventListener('scroll', onScroll, { passive: true });
