@@ -15,7 +15,6 @@
   import LeadForm from '$lib/components/LeadForm.svelte';
   import LocationSection from '$lib/components/LocationSection.svelte';
   import Footer from '$lib/components/Footer.svelte';
-  import PlateRail from '$lib/components/PlateRail.svelte';
   import FloatCta from '$lib/components/FloatCta.svelte';
   import Lightbox from '$lib/components/Lightbox.svelte';
   
@@ -94,7 +93,6 @@ import {
 
 <Announcement text={announceText} />
 <Header />
-<PlateRail sectionIds={pageSections} />
 
 <main id="top">
   <Hero
