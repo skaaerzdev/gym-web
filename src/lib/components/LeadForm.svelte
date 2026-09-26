@@ -16,7 +16,7 @@
         <div class="eyebrow">Not Ready to Join Yet?</div>
         <h2>Get your free session booked in.</h2>
         <p>
-          Leave your details and the team will be in touch to get you on the floor — no obligation, no card required.
+          Leave your details and the team will be in touch - no obligation, no card required.
         </p>
       </div>
 
