@@ -6,7 +6,7 @@
   <div class="wrap">
     <div class="pt-band reveal">
       <div class="pt-media">
-        <img src={section.image} alt="Personal trainer coaching a client at Powerzone Gym" loading="lazy" />
+        <img src={section.image} alt="Coach working with a member at Basalt" loading="lazy" />
       </div>
       <div class="pt-copy">
         <div class="eyebrow">{section.eyebrow}</div>

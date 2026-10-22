@@ -1,5 +1,6 @@
 <script lang="ts">
   import { navLinks } from '$lib/data/site';
+  import Logo from './Logo.svelte';
   let menuOpen = false;
 
   function toggleMenu() {
@@ -13,10 +14,8 @@
 
 <header id="siteHeader">
   <nav class="wrap">
-    <a href="#top" class="brand">
-      <div class="brand-mark">
-        <img src="/pzbranding.png" height="45" width="auto" alt="Powerzone Logo" />
-      </div>
+    <a href="#top" class="brand" aria-label="Basalt Strength Club home">
+      <Logo size={42} />
     </a>
 
     <div class="nav-links {menuOpen ? 'open' : ''}" id="navLinks">
@@ -47,7 +46,7 @@
     position: sticky;
     top: 0;
     z-index: 100;
-    background: rgba(10, 10, 10, 0.85);
+    background: rgba(12, 11, 10, 0.85);
     backdrop-filter: blur(10px);
     border-bottom: 1px solid var(--hairline);
     transition: padding 0.25s ease;

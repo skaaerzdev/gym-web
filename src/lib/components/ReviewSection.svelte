@@ -24,7 +24,7 @@
         <div class="eyebrow" style="margin-bottom:2px">Reviews</div>
         <div class="rb-title">Excellent</div>
         <div class="stars">★★★★★</div>
-        <div class="rb-count">Based on 230+ reviews</div>
+        <div class="rb-count">Based on 180+ reviews</div>
         <div class="rb-source"><span class="g">G</span> Google Reviews</div>
       </div>
       <div class="reviews-track-wrap">

@@ -1,14 +1,14 @@
 :root {
-  --void: #0a0a0a;
-  --charcoal: #111112;
-  --charcoal-2: #161618;
-  --hairline: #252529;
-  --concrete: #7c8aa3;
-  --chalk: #eef2f9;
-  --hazard: #2f7bf6;
-  --hazard-dark: #1c5fd6;
-  --rust: #1a3a75;
-  --ff-display: 'Anton', sans-serif;
+  --void: #0c0b0a;
+  --charcoal: #141210;
+  --charcoal-2: #1a1714;
+  --hairline: #2b2723;
+  --concrete: #9b9189;
+  --chalk: #f3efe9;
+  --hazard: #ff6a2b;
+  --hazard-dark: #e0521a;
+  --rust: #6b2a12;
+  --ff-display: 'Big Shoulders Display', sans-serif;
   --ff-body: 'Archivo', sans-serif;
   --ff-mono: 'Space Mono', monospace;
   --container: 1180px;

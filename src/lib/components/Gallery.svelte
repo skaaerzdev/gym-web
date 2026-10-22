@@ -21,7 +21,7 @@
       <div class="eyebrow">The Gym</div>
       <h2>Every corner built to lift, press and pull.</h2>
       <p>
-        A look inside the floor — free weights, plate-loaded machines and a dedicated leg area, all under one roof in the heart of Wrexham.
+        A look inside the floor — twelve lifting platforms, plate-loaded machines and an outdoor strongman yard, all under one roof in a converted rope works off the Leith shore.
       </p>
     </div>
 

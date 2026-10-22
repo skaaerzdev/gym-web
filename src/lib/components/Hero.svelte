@@ -11,7 +11,7 @@
   export let tag = '';
   export let headline = '';
   export let subtext = '';
-  export let primary = { href: '#membership', label: 'Join Now — From £40/mo' };
+  export let primary = { href: '#membership', label: 'Join Now — From £29/mo' };
   export let secondary = { href: '#difference', label: 'See The Gym ↓' };
 
   let currentSlide = 0;
@@ -152,7 +152,7 @@
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: rgba(238, 242, 249, 0.3);
+    background: rgba(243, 239, 233, 0.3);
     border: 0;
     cursor: pointer;
     padding: 0;

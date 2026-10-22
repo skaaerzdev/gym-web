@@ -2,18 +2,11 @@
 
 <div class="marquee-band">
   <div class="marquee-track" aria-hidden="true">
-    <span>
-      <em>•</em> 50+ PLATE LOADED MACHINES <em>•</em> 16-STATION LEG AREA <em>•</em> OPEN 5AM–11PM DAILY <em>•</em>
-    </span>
-    <span>
-      <img
-        src="https://powerzonegym.org/wp-content/uploads/2024/10/logos-1.png"
-        width="auto"
-        height="90"
-        alt="Partner brands"
-      />
-      <em>•</em> 50+ PLATE LOADED MACHINES <em>•</em> 16-STATION LEG AREA <em>•</em> OPEN 5AM–11PM DAILY <em>•</em>
-    </span>
+    {#each [0, 1] as _}
+      <span>
+        <em>•</em> 12 LIFTING PLATFORMS <em>•</em> CALIBRATED PLATES <em>•</em> OUTDOOR STRONGMAN YARD <em>•</em> 24/7 MEMBER ACCESS <em>•</em> CHALK WELCOME <em>•</em>
+      </span>
+    {/each}
   </div>
 </div>
 

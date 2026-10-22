@@ -4,6 +4,7 @@
     info: Array<{ href: string; label: string }>;
     follow: Array<{ href: string; label: string }>;
   } = { explore: [], info: [], follow: [] };
+  import Logo from './Logo.svelte';
   const year = new Date().getFullYear();
 </script>
 
@@ -12,12 +13,10 @@
     <div class="foot-grid">
       <div class="foot-brand">
         <div class="brand">
-          <div class="brand-mark">
-            <img src="/pzbranding.png" alt="PowerZone" height="45" width="auto" />
-          </div>
+          <Logo size={46} />
         </div>
         <p>
-          Wrexham's No.1 independent gym since 2008. Old school hardcore training, friendly community atmosphere.
+          Leith's independent strength gym since 2016. Heavy platforms, honest coaching, a crowd that racks its weights.
         </p>
       </div>
 
@@ -44,8 +43,8 @@
     </div>
 
     <div class="foot-bottom">
-      <span>© {year} Powerzone Gym, Wrexham.</span>
-      <span>Rivulet Rd Unit 4, Wrexham LL13 8DT</span>
+      <span>© {year} Basalt Strength Club, Leith.</span>
+      <span>Unit 3, Kilnmoss Works, Leith, Edinburgh EH6 7QX</span>
     </div>
   </div>
 </footer>

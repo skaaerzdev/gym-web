@@ -26,11 +26,11 @@
         href={location.mapUrl}
         target="_blank"
         rel="noopener"
-        aria-label="Open Powerzone Gym location map"
+        aria-label="Open Basalt Strength Club location map"
       >
         <div class="loc-map">
           <iframe
-            title="Powerzone Gym location map"
+            title="Basalt Strength Club location map"
             src={location.iframeSrc}
             width="600"
             height="450"

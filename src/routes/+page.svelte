@@ -97,10 +97,10 @@ import {
 <main id="top">
   <Hero
     slides={heroSlides}
-    tag="Wrexham's No.1 Independent Gym · Est. 2008"
-    headline="HARDCORE <span class='accent'>TRAINING.</span><br />FRIENDLY COMMUNITY."
-    subtext="100+ pieces of strength and cardio equipment, over 50 plate-loaded machines and a dedicated 16-station leg area — built for people who take their training seriously, without losing the welcome."
-    primary={{ href: '#membership', label: 'Join Now — From £40/mo' }}
+    tag="Independent Strength Gym · Leith, Edinburgh · Est. 2016"
+    headline="LIFT <span class='accent'>HEAVY.</span><br />STAY GROUNDED."
+    subtext="12 lifting platforms, 140+ pieces of kit and an outdoor strongman yard inside a converted rope works off the Leith shore — open 24/7 for people who take their training seriously."
+    primary={{ href: '#membership', label: 'Join Now — From £29/mo' }}
     secondary={{ href: '#difference', label: 'See The Gym ↓' }}
   />
 
